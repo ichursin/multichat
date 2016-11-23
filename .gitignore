@@ -1,3 +1,4 @@
+public/
+!src/public
 node_modules
 npm-debug.log
-public/
